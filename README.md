@@ -21,22 +21,22 @@ var myHelpers = require('eitlab-js-helpers');
 });
 
 # getAverageArray
-console.log(getAverageArray([1,2,3,4,5]));
+console.log(myHelpers.getAverageArray([1,2,3,4,5]));
 
 # getSumArray
-console.log(getSumArray([1,2,3,4,5]));
+console.log(myHelpers.getSumArray([1,2,3,4,5]));
 
 # getMinFromArray
-console.log(getMinFromArray([1,2,3,4,5]));
+console.log(myHelpers.getMinFromArray([1,2,3,4,5]));
 
 # getMaxFromArray
-console.log(getMaxFromArray([1,2,3,4,5]));
+console.log(myHelpers.getMaxFromArray([1,2,3,4,5]));
 
 # generateToken
-console.log(generateToken(20, 'strong'));
+console.log(myHelpers.generateToken(20, 'strong'));
 
 # generateDecimalCode
-console.log(generateDecimalCode(8));
+console.log(myHelpers.generateDecimalCode(8));
 
 
         
