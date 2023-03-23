@@ -1,0 +1,24 @@
+{
+  "name": "eitlab-js-helpers",
+  "version": "0.10.0",
+  "description": "A powerful helpers to create your application using js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expertitlab-opensource/eitlab-js-helpers.git"
+  },
+  "keywords": [
+    "js",
+    "helpers",
+    "etc."
+  ],
+  "author": "Expert It Lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/expertitlab-opensource/eitlab-js-helpers/issues"
+  },
+  "homepage": "https://github.com/expertitlab-opensource/eitlab-js-helpers#readme"
+}
